@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * Lernziel: Records deklarieren und nutzen (Java 16)
  *
- * @see de.tutego.exception.Exceptions
+ * @see de.tutego.exception.Exceptions für nächsten Abschnitt
  */
 public class RecordDemo {
   public static void main( String[] args ) {

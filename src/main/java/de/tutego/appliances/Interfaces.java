@@ -11,7 +11,7 @@ package de.tutego.appliances;
  * - Statische Methoden in Schnittstellen
  * - Default-Methoden
  *
- * @see RecordDemo
+ * @see SealedClasses
  */
 public class Interfaces {
   public static void main( String[] args ) {
