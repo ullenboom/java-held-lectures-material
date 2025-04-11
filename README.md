@@ -1,1 +1,0 @@
-Material zum Video-Training
